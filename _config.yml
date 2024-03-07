@@ -1,0 +1,16 @@
+# Site settings
+title: Whitehat Safe Harbor
+description: "A project dedicated to establishing legal protections for ethical hackers."
+baseurl: "" # the subpath of your site, e.g., "/blog" if your site is hosted at example.com/blog
+url: "https://daimon-law.github.io/whitehat-safe-harbor" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude files from being processed or published on the site
+exclude:
+  - LICENSE
+  - .gitignore
+  - CNAME
