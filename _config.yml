@@ -1,11 +1,11 @@
 # Site settings
 title: Whitehat Safe Harbor
 description: "A project dedicated to establishing legal protections for ethical hackers."
-baseurl: "" # the subpath of your site, e.g., "/blog" if your site is hosted at example.com/blog
-url: "https://daimon-law.github.io/whitehat-safe-harbor" # the base hostname & protocol for your site
+baseurl: "" # Leave empty since your site is at the root of your domain
+url: "https://daimon-law.github.io/whitehat-safe-harbor" # No trailing slash
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minimal # If using a GitHub-supported theme, you can often just use the theme's short name
 plugins:
   - jekyll-feed
 
