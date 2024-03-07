@@ -8,10 +8,8 @@ The Whitehat Safe Harbor initiative is a framework in which protocols can offer 
 
 ## What's in this repo?
 
-- [documents/agreement.pdf](documents/agreement.pdf) - the key legal document that defines the framework. 
-- [documents/summary.pdf](documents/summary.pdf) - a helper document that summarizes the official agreement.
-- [documents/FAQ.md](documents/FAQ.md) - answers to common questions about SEAL Safe Harbor. 
-- [registry-contracts/](registry-contracts/) - the smart contracts that on-chain governance can use to signal their official adoption of the agreement. 
+- documents/Agreement Text Only (DL Edits 2024-03).docx - the key legal document that defines the framework. This is a complete overhaul of the LeXpunK version  by Daimon Legal in mark-up and clean form, taking into account industry feedback and additional clarifications to re-balance risk allocation and improve readability of the agreement.
+- documents/Agreement Text Only (DL Clean Copy 2024-03).docx - clean copy for immediate use.
 
 ## How does it work?
 
