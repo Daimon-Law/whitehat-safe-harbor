@@ -14,7 +14,7 @@ This is a fork and re-write of the LeXpunK version created by Daimon Legal. The 
 - improve overall readability and future updates of the agreement by overhauling clause numbering, consolidating definitions and making numerous other structural improvements.
 
 There are 2 key documents in this repository:
-- documents/Agreement Text Only (DL Edits 2024-03).docx - the key legal document that defines the framework. 
+- documents/Agreement Text Only (DL Edits 2024-03).docx - the main legal agreement for adoption by a Protocol along with the support appendices and FAQs defining the framework. This version includes markups and comments provided back to the Security Alliance team here: https://github.com/security-alliance/safe-harbor/discussions/3
 - documents/Agreement Text Only (DL Clean Copy 2024-03).docx - clean copy for immediate use.
 
 ## How does it work?
