@@ -5,7 +5,7 @@ baseurl: "" # the subpath of your site, e.g., "/blog" if your site is hosted at 
 url: "https://daimon-law.github.io/whitehat-safe-harbor" # the base hostname & protocol for your site
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
