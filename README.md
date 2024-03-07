@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="assets/Security-Alliance-Logo-Blue.svg" alt="SEAL"/>
-</p>
-
 # Whitehat Safe Harbor
 
-The Whitehat Safe Harbor initiative is a framework in which protocols can offer legal protection to whitehats who aid in the recovery of assets during an active exploit.
+The Whitehat Safe Harbor initiative is a framework in which protocols can offer legal protection to whitehats who aid in the recovery of assets during an active exploit. It was originally developed by the Security Alliance in conjunction with lawyers from LeXpunK DAO and full credit goes to them for launching this important initiative.
 
 ## What's in this repo?
 
-This is a fork and re-write of the LeXpunK version created by Daimon Legal. The files are provided in mark-up and clean form, designed with the following objectives: 
+This is a fork and re-write of the LeXpunK version. The files are provided in mark-up and clean form, designed with the following objectives: 
 - take into account industry feedback on risk allocation and incentives;
 - providing additional clarifications to re-balance risk allocation and increase certainty for Whitehats; and
 - improve overall readability and future updates of the agreement by overhauling clause numbering, consolidating definitions and making numerous other structural improvements.
