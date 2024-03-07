@@ -8,7 +8,12 @@ The Whitehat Safe Harbor initiative is a framework in which protocols can offer 
 
 ## What's in this repo?
 
-- documents/Agreement Text Only (DL Edits 2024-03).docx - the key legal document that defines the framework. This is a complete overhaul of the LeXpunK version  by Daimon Legal in mark-up and clean form, taking into account industry feedback and additional clarifications to re-balance risk allocation and improve readability of the agreement.
+This is a fork and re-write of the LeXpunK version created by Daimon Legal. The files are provided in mark-up and clean form, designed with the following objectives: 
+- take into account industry feedback on risk allocation and incentives;
+- providing additional clarifications to re-balance risk allocation and increase certainty for Whitehats; and
+- improve overall readability and future updates of the agreement by overhauling clause numbering, consolidating definitions and making numerous other structural improvements.
+
+- documents/Agreement Text Only (DL Edits 2024-03).docx - the key legal document that defines the framework. 
 - documents/Agreement Text Only (DL Clean Copy 2024-03).docx - clean copy for immediate use.
 
 ## How does it work?
@@ -45,9 +50,5 @@ If the whitehat decides to proceed with a whitehat rescue, they must follow the 
 ## Diagram
 
 ![Safe Harbor Flowchart](assets/flowchart.png)
-
-## What's next?
-
-A month-long RFC phase will begin on February 14th, alongside the main launch of the Security Alliance. To contribute to the discussion, please use [the discussions section](https://github.com/security-alliance/safe-harbor/discussions) of this GitHub repo. If you are interested in Safe Harbor and would like to get in touch, please use our signup form here: https://form.typeform.com/to/QF3YjWno. 
 
 
