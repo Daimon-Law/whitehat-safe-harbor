@@ -5,7 +5,7 @@ baseurl: "" # Leave empty since your site is at the root of your domain
 url: "https://daimon-law.github.io/whitehat-safe-harbor" # No trailing slash
 
 # Build settings
-remote_theme: pages-themes/minimal
+theme: minimal
 
 plugins:
   - jekyll-feed
